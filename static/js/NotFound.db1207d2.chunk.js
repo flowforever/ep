@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{514:function(n,e,t){"use strict";t.r(e),t.d(e,"NotFound",function(){return c});var a=t(2),o=t.n(a),u=t(129).useLocation;function c(){var n=u();return o.a.createElement("div",null,o.a.createElement("h3",null,"No match for"," ",o.a.createElement("code",null,n.pathname)))}e.default=c}}]);
+//# sourceMappingURL=NotFound.db1207d2.chunk.js.map

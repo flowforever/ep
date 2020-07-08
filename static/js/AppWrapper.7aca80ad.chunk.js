@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{269:function(n,e,a){},515:function(n,e,a){"use strict";a.r(e),a.d(e,"AdminWrapper",function(){return t});var r=a(2),i=a.n(r);a(269);function t(n){var e=n.children;return i.a.createElement("div",{className:"admin-app"},e)}e.default=t}}]);
+//# sourceMappingURL=AppWrapper.7aca80ad.chunk.js.map

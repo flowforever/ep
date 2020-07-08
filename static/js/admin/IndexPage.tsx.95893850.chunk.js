@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{516:function(e,n,t){"use strict";t.r(n),t.d(n,"IndexPage",function(){return u});var r=t(2),a=t.n(r),l=t(518);function u(){return a.a.createElement("div",null,"Admin Index",a.a.createElement("br",null),a.a.createElement(l.a,{type:"primary"},"Hello World"))}n.default=u}}]);
+//# sourceMappingURL=IndexPage.tsx.95893850.chunk.js.map
